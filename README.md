@@ -58,10 +58,13 @@ If correct → servo unlocks door
 If incorrect → attempt counter increases
 After multiple failures → system lockout
 Recovery password restores system access
+
 🔑 Credentials
 Main Password: 1899
 Recovery Password: 0000
+
 🧑‍💻 Team
+
 Ahmed Ayman Ibrahim
 Ahmed Khaled Ibrahim
 Ahmed Tamer Mohamed
