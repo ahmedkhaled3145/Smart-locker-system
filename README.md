@@ -1,6 +1,8 @@
+
 🔐 Smart Door Lock System (Arduino Project)
 
-Smart Door Lock System is an embedded C++ project built using Arduino UNO. It simulates a secure access control system using a keypad, servo motor, and LCD display, with multiple security layers and lockout protection.
+Smart Door Lock System is an embedded C++ project built using Arduino UNO.
+It simulates a secure access control system using a keypad, servo motor, and LCD display, with multiple security layers and lockout protection.
 
 ✨ Features
 🔢 Keypad-Based Access System
@@ -49,6 +51,7 @@ Digital I/O (LEDs & Buzzer)
 🎯 Purpose
 
 This project simulates a real-world embedded security system using Arduino.
+
 It demonstrates authentication, hardware interfacing, state control, and security logic in embedded systems.
 
 🧠 System Logic
@@ -58,13 +61,10 @@ If correct → servo unlocks door
 If incorrect → attempt counter increases
 After multiple failures → system lockout
 Recovery password restores system access
-
 🔑 Credentials
 Main Password: 1899
 Recovery Password: 0000
-
 🧑‍💻 Team
-
 Ahmed Ayman Ibrahim
 Ahmed Khaled Ibrahim
 Ahmed Tamer Mohamed
