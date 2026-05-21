@@ -42,32 +42,54 @@ Allows system reset using a recovery password after lockout.
 Adds waiting time after repeated failed attempts.
 
 🧰 Technologies Used
+
 Arduino UNO
+
 C++ (Embedded Programming)
+
 Keypad Library
+
 Servo Motor Library
+
 I2C LCD Library (LiquidCrystal_I2C)
+
 Digital I/O (LEDs & Buzzer)
+
 🎯 Purpose
 
 This project simulates a real-world embedded security system using Arduino.
 
 It demonstrates authentication, hardware interfacing, state control, and security logic in embedded systems.
 
+
 🧠 System Logic
+
 User enters a 4-digit PIN using keypad
+
 Press * to submit password
+
 If correct → servo unlocks door
+
 If incorrect → attempt counter increases
+
 After multiple failures → system lockout
+
 Recovery password restores system access
+
 🔑 Credentials
+
 Main Password: 1899
+
 Recovery Password: 0000
+
 🧑‍💻 Team
+
 Ahmed Ayman Ibrahim
+
 Ahmed Khaled Ibrahim
+
 Ahmed Tamer Mohamed
+
 Hamza Ahmed Abdelhady
 Mazen Mohamed Elsayed
 Mohamed Mostafa Hamza
