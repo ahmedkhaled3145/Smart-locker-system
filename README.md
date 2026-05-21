@@ -65,19 +65,13 @@ Requires recovery password to reset
 Main Password: 1899
 Recovery Password: 0000
 
-⚠️ You can change these values in the code.
-
-📁 Project Structure
-/Smart-Door-Lock
-│── smart_door_lock.ino
-│── README.md
-│── wiring_diagram.png (optional)
-│── images/
 🧑‍💻 Contributors
 
 Thanks to everyone who contributed to this project:
+Ahmed Ayman Ibrahim
+Ahmed Khaled Ibrahim
+Ahmed Tamer Mohamed
+Hamza Ahmed Abdelhady
+Mazen Mohamed Elsayed 
+Mohamed Mostafa Hamza
 
-  
- 
-
- 
